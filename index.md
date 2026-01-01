@@ -86,9 +86,21 @@ We encourage you to check this page periodically.
 
 ---
 
-## 9. Contact Information
+## 9. In-App Purchases
+
+The app may offer in-app purchases (IAPs) or subscriptions.  
+- Payment information is handled exclusively by Apple via the App Store.  
+- We do not collect or store credit card or payment information.  
+- Purchase status may be stored locally on your device or via Apple servers to provide access to premium features.  
+- Purchases are used solely to enable app functionality and are not shared with third parties.
+
+---
+
+## 10. Contact Information
 
 If you have questions or concerns regarding this Privacy Policy, please contact us:
 
 **Email:** privacy@purpletreee.com  
 **App:** Calenytic
+
+
